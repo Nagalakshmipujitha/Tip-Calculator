@@ -5,7 +5,8 @@
 }
 
 .tip-calculator-image {
-    width: 50px;
+    width: 25px;
+    heigth:25px
 }
 
 .tip-calculator-heading {
@@ -49,4 +50,5 @@
     margin-top: 10px;
 
 }
+
 
